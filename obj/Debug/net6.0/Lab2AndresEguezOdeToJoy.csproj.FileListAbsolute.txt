@@ -1,0 +1,15 @@
+C:\repos\C#\Lab2\Lab2AndresEguezOdeToJoy\bin\Debug\net6.0\Lab2AndresEguezOdeToJoy.exe
+C:\repos\C#\Lab2\Lab2AndresEguezOdeToJoy\bin\Debug\net6.0\Lab2AndresEguezOdeToJoy.deps.json
+C:\repos\C#\Lab2\Lab2AndresEguezOdeToJoy\bin\Debug\net6.0\Lab2AndresEguezOdeToJoy.runtimeconfig.json
+C:\repos\C#\Lab2\Lab2AndresEguezOdeToJoy\bin\Debug\net6.0\Lab2AndresEguezOdeToJoy.dll
+C:\repos\C#\Lab2\Lab2AndresEguezOdeToJoy\bin\Debug\net6.0\Lab2AndresEguezOdeToJoy.pdb
+C:\repos\C#\Lab2\Lab2AndresEguezOdeToJoy\obj\Debug\net6.0\Lab2AndresEguezOdeToJoy.csproj.AssemblyReference.cache
+C:\repos\C#\Lab2\Lab2AndresEguezOdeToJoy\obj\Debug\net6.0\Lab2AndresEguezOdeToJoy.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#\Lab2\Lab2AndresEguezOdeToJoy\obj\Debug\net6.0\Lab2AndresEguezOdeToJoy.AssemblyInfoInputs.cache
+C:\repos\C#\Lab2\Lab2AndresEguezOdeToJoy\obj\Debug\net6.0\Lab2AndresEguezOdeToJoy.AssemblyInfo.cs
+C:\repos\C#\Lab2\Lab2AndresEguezOdeToJoy\obj\Debug\net6.0\Lab2AndresEguezOdeToJoy.csproj.CoreCompileInputs.cache
+C:\repos\C#\Lab2\Lab2AndresEguezOdeToJoy\obj\Debug\net6.0\Lab2AndresEguezOdeToJoy.dll
+C:\repos\C#\Lab2\Lab2AndresEguezOdeToJoy\obj\Debug\net6.0\refint\Lab2AndresEguezOdeToJoy.dll
+C:\repos\C#\Lab2\Lab2AndresEguezOdeToJoy\obj\Debug\net6.0\Lab2AndresEguezOdeToJoy.pdb
+C:\repos\C#\Lab2\Lab2AndresEguezOdeToJoy\obj\Debug\net6.0\Lab2AndresEguezOdeToJoy.genruntimeconfig.cache
+C:\repos\C#\Lab2\Lab2AndresEguezOdeToJoy\obj\Debug\net6.0\ref\Lab2AndresEguezOdeToJoy.dll
